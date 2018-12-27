@@ -1,0 +1,9 @@
+C:\Users\huwenjie\source\repos\serviceTest\serviceTest\bin\serviceTest.dll.config
+C:\Users\huwenjie\source\repos\serviceTest\serviceTest\bin\serviceTest.dll
+C:\Users\huwenjie\source\repos\serviceTest\serviceTest\bin\serviceTest.pdb
+C:\Users\huwenjie\source\repos\serviceTest\serviceTest\bin\Sygole.HFModbus.dll
+C:\Users\huwenjie\source\repos\serviceTest\serviceTest\bin\Sygole.HFReader.dll
+C:\Users\huwenjie\source\repos\serviceTest\serviceTest\obj\x64\Debug\serviceTest.csproj.CoreCompileInputs.cache
+C:\Users\huwenjie\source\repos\serviceTest\serviceTest\obj\x64\Debug\serviceTest.csproj.CopyComplete
+C:\Users\huwenjie\source\repos\serviceTest\serviceTest\obj\x64\Debug\serviceTest.dll
+C:\Users\huwenjie\source\repos\serviceTest\serviceTest\obj\x64\Debug\serviceTest.pdb
